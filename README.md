@@ -17,7 +17,6 @@ Login Page: Simple static login form UI (non-functional).
 
 Reserve Date Page: A booking form to reserve photography sessions.
 
-🛠 Built With:
+🛠 Built With: <br>
 HTML5
-
 CSS3
